@@ -4,9 +4,9 @@
 </div>
 
  👋 Welcome to my Github Profile! <br>
- ⚡ Hi! I am Tanya Cherenko. <br>
+ 🌿 Hi! I am Tanya Cherenko. <br>
 
-### :sparkles: My skills
+### ✨ My skills
 
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
