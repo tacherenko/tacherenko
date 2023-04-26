@@ -1,6 +1,6 @@
 
 <div align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer&size=38&pause=1000&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=5001&pause=1000&color=F7EE93&vCenter=true&multiline=true&width=437&height=53&lines=Frontend+Developer" />
 </div>
 
  👋 Welcome to my Github Profile! <br>
