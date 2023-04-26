@@ -24,5 +24,7 @@
   <summary>
     
 ### 📲 Contacts 
+   </summary>
 - **Gmail:** tanja.cherenko@gmail.com
 - [**LinkedIn**](https://www.linkedin.com/in/tatyana-cherenko-00b604217/)
+
