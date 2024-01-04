@@ -1,31 +1,19 @@
+### Hey, I'm Tanya 💫
 
-<div align="left">
- <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=5001&pause=1000&color=F7EE93&vCenter=true&multiline=true&width=437&height=53&lines=Frontend+Developer" />
-</div>
+I'm a frontend developer based in Poland, and I have a strong enthusiasm for creating compelling digital interfaces.
 
- 👋 Welcome to my Github Profile! <br>
- 🌿 Hi! I am Tanya Cherenko. <br>
+- Check out my website to learn more about me.
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/tati-cherenko/)
 
-### ✨ My skills
+## 🔬 Current Endeavors 
 
-[![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-[![](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
-[![](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
-[![](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-[![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
-[![](https://skillicons.dev/icons?i=discord)](https://discord.com/)
-[![](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
-[![](https://skillicons.dev/icons?i=react)](https://react.dev/learn)
+Currently, I'm refining my skills and knowledge as a frontend developer. My focus is on:
 
-<details>
-  <summary>
-    
-###  ✉️ Contacts 
-   </summary>
+- Participating in engaging frontend projects.
+- Exploring various libraries and tools to enhance my skill set.
+
+## 📫 Contact
+
+For a quick response [LinkedIn](https://www.linkedin.com/in/tati-cherenko/). 
  
-- **Gmail:** tanja.cherenko@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/tatyana-cherenko-00b604217/)
-
+For professional inquiries, reach out via email at [tacherenko.contact@gmail.com](mailto:tacherenko.contact@gmail.com).
