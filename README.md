@@ -3,6 +3,7 @@
 I'm a frontend developer based in Poland, and I have a strong enthusiasm for creating compelling digital interfaces.
 
 - Check out my website to learn more about me.
+- Find some useful articles on my [blog](https://tacherenko.hashnode.dev/).
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/tati-cherenko/)
 
 ## 🔬 Current Endeavors 
